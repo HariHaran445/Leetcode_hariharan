@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,9 +17,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
