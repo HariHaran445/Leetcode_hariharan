@@ -1,0 +1,23 @@
+class Solution {
+    public static int reverse(int x) {
+        int sum=0;
+        while(x!=0){
+        int digit=x%10;
+        if (sum > Integer.MAX_VALUE / 10 || (sum == Integer.MAX_VALUE / 10 && digit > 7)) {
+                return 0; 
+            }
+            if (sum < Integer.MIN_VALUE / 10 || (sum == Integer.MIN_VALUE / 10 && digit < -8)) {
+                return 0;
+            }
+        sum=sum*10+digit;
+        x=x/10;
+        }
+        return sum;
+    }
+    public static void main(String []args){
+        Scanner s=new Scanner(System.in);
+        int x=s.nextInt();
+int res=reverse(x);
+System.out.print(res);
+    }
+}
