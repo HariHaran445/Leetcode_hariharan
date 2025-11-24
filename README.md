@@ -54,8 +54,13 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
