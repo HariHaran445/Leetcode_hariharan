@@ -9,12 +9,13 @@ class Solution {
         int bitb= (j>=0) ? b.charAt(j) - '0': 0;
 
         int sum=bita+bitb+carry;
-       // sb.insert(0,sum%2);
-       sb.append(sum%2);
+        sb.insert(0,sum%2);
+        //sb.append(sum%2);
         carry=sum/2;
         i--;
         j--;
        }
-       return sb.reverse().toString();
+       //return sb.reverse().toString();
+       return sb.toString();
     }
 }
