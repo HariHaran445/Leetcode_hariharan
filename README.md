@@ -21,6 +21,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -62,5 +64,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0190-reverse-bits) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
