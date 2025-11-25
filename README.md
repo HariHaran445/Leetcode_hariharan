@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0169-majority-element) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0048-rotate-image](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
