@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
@@ -38,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0392-is-subsequence) |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
