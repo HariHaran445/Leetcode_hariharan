@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
@@ -73,6 +74,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0137-single-number-ii) |
