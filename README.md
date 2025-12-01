@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0136-single-number) |
@@ -27,6 +28,7 @@
 | [0007-reverse-integer](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/1015-smallest-integer-divisible-by-k) |
