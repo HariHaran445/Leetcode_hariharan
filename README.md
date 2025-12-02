@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0202-happy-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Math
 |  |
@@ -31,6 +32,7 @@
 | [0066-plus-one](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0202-happy-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -40,6 +42,7 @@
 | [0088-merge-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0392-is-subsequence) |
 ## String
 |  |
