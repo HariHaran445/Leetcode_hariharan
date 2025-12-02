@@ -33,6 +33,7 @@
 | [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0202-happy-number) |
+| [0507-perfect-number](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Two Pointers
