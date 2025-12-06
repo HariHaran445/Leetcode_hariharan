@@ -16,6 +16,7 @@
 | [0137-single-number-ii](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
+| [0605-can-place-flowers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
