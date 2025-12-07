@@ -39,6 +39,7 @@
 | [0507-perfect-number](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Two Pointers
 |  |
 | ------- |
