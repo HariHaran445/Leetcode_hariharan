@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
 | [0605-can-place-flowers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0605-can-place-flowers) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0977-squares-of-a-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0977-squares-of-a-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/2109-adding-spaces-to-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/2273-find-resultant-array-after-removing-anagrams) |
