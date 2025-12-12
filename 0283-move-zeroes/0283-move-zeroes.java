@@ -6,7 +6,7 @@ class Solution {
             if(nums[i]!=0){
                 arr[j]=nums[i];
                 j++;
-            }
+            }//
         }
         for(int i=0;i<nums.length;i++){
             nums[i]=arr[i];
