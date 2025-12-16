@@ -2,7 +2,7 @@ class Solution {
 public:
 
     void mark0(vector<vector<char>>& grid,int i,int j,int n,int m){
-        if(i<0||j<0||i>=n||j>=m||grid[i][j]=='0'){
+        if(i<0 || j<0 || i>=n || j>=m || grid[i][j]=='0'){
             return;
         }
         grid[i][j]='0';
