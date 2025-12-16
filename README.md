@@ -16,6 +16,7 @@
 | [0137-single-number-ii](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,10 +148,19 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0145-binary-tree-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
