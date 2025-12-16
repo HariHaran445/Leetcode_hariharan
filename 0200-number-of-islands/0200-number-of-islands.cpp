@@ -26,3 +26,19 @@ public:
         return count;
     }
 };
+int main() {
+    Solution sol;
+
+    // Example Grid: 3 Islands
+    vector<vector<char>> grid = {
+        {'1', '1', '0', '0', '0'},
+        {'1', '1', '0', '0', '0'},
+        {'0', '0', '1', '0', '0'},
+        {'0', '0', '0', '1', '1'}
+    };
+
+    int result = sol.numIslands(grid);
+    cout << "Total Number of Islands: " << result << endl;
+
+    return 0;
+}
