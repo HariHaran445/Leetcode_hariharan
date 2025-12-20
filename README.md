@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0912-sort-an-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0977-squares-of-a-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/2109-adding-spaces-to-a-string) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0977-squares-of-a-sorted-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3467-transform-array-by-parity](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/3467-transform-array-by-parity) |
@@ -100,6 +102,7 @@
 | [0169-majority-element](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -165,4 +168,24 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
