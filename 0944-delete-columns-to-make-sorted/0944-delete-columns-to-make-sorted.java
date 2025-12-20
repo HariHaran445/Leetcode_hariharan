@@ -1,17 +1,16 @@
 class Solution {
     public int minDeletionSize(String[] strs) {
-        int n=strs.length;
-        int m=strs[0].length();
-        int count=0;
-        for(int i=0;i<m;i++){
-            boolean bol=false;
-            for(int j=0;j<n-1;j++){
-                if(strs[j].charAt(i)>strs[j+1].charAt(i)){  
-                count++;
+        int rowcount=strs.length;
+        int collen=strs[0].length();
+        int delcount=0;
+        for(int col=0;col<collen;col++){
+            for(int row=0;row<rowcount-1;row++){
+                if(strs[row].charAt(col)>strs[row+1].charAt(col)){  
+                delcount++;
                 break;
                 }
             }      
         }
-        return count;
+        return delcount;
     }
 }
