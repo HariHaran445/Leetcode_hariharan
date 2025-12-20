@@ -1,14 +1,14 @@
 class Solution {
     public int[] sortArray(int[] nums) {
              int n=nums.length;
-       sort(nums,0,n-1); 
+       mergesort(nums,0,n-1); 
        return nums;
     }
-       public static void sort(int[] arr, int l, int r) {
+       public static void mergesort(int[] arr, int l, int r) {
         if (l < r) {
             int m = l + (r - l) / 2;
-            sort(arr, l, m);
-            sort(arr, m + 1, r);
+            mergesort(arr, l, m);
+            mergesort(arr, m + 1, r);
             merge(arr, l, m, r);
         }
     }
@@ -30,37 +30,4 @@ class Solution {
         while (i < n1) arr[k++] = L[i++];
         while (j < n2) arr[k++] = R[j++];
     }
-    //     int n=nums.length;
-    //   sort(nums,0,n-1);
-    //  return nums;
-    // }
-    // static void sort(int[] nums,int low,int high){
-    //     if(low<high){
-    //     int pivot=pivots(nums,low,high);
-    //     sort(nums,low,pivot-1);
-    //     sort(nums,pivot+1,high);
-    //     }
-    // }
-    // static int pivots(int[] nums,int low,int high){
-    //     int pivot=nums[low];
-    //     int i=low;
-    //     int j=high;
-    //     while(i<j){
-    //         while(i<=high && nums[i]<=pivot){
-    //             i++;
-    //         }
-    //         while(j>=low && nums[j]>pivot){
-    //             j--;
-    //         }
-    //         if(i<j){
-    //         int temp=nums[i];
-    //         nums[i]=nums[j];
-    //         nums[j]=temp;
-    //         }
-    //     }
-    // int temp=nums[j];
-    // nums[j]=pivot;;
-    // nums[low]=temp;
-    // return j;
-    
 }
