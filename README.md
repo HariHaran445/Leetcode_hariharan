@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0977-squares-of-a-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/2109-adding-spaces-to-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -68,6 +69,7 @@
 | [0067-add-binary](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0392-is-subsequence) |
+| [0944-delete-columns-to-make-sorted](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/1108-defanging-an-ip-address) |
 | [2109-adding-spaces-to-a-string](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/2109-adding-spaces-to-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/HariHaran445/Leetcode_hariharan/tree/master/2185-counting-words-with-a-given-prefix) |
